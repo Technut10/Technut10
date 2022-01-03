@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Technut10
 - 👀 I’m interested in ... Full Stack web development and video game creation.
-- 🌱 I’m currently learning ...Full stack web development- going over CSS.
-- 💞️ I’m looking to collaborate on ... any projects to help build our portfolios.
+- 🌱 I’m currently learning ...Full stack web development- going over JavaScript.
+- 💞️ I’m looking to collaborate on ... any projects to help build our portfolios'.
 - 📫 How to reach me ...
 
 <!---
