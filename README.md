@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Mobile app development with Kotlin, also learning C for operating systems.
 - 💞️ I’m looking to collaborate on ... any projects to help build our portfolios, open-source projects, and game dev projects.
 - 📫 How to reach me... technut.devops@gmail.com
--    I am now a third year computer science student, looking to become a full on software engineer, game developer, cloud engineer and your basic robot programmer 😄.
+-    I am now a fourth year computer science student, looking to become a full on software engineer, game developer, cloud engineer and your basic robot programmer 😄.
 <!---
 Technut10/Technut10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
